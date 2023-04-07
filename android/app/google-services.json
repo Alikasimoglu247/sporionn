@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "624445249190",
+    "project_id": "sporionn-9f070",
+    "storage_bucket": "sporionn-9f070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624445249190:android:dd5e141de344cdbcecc667",
+        "android_client_info": {
+          "package_name": "com.example.orionn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624445249190-b1cppsi5slk8o8nc9g9d6r3t9k2sfrn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orionn",
+            "certificate_hash": "17be978d9bc092e55238f8032aa0763e7474844b"
+          }
+        },
+        {
+          "client_id": "624445249190-k5vda5i6kjmpukdflg21tfumcme5o65h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSLlv6pRWzcGJWLObkR29wuYcdizCuFIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624445249190-k5vda5i6kjmpukdflg21tfumcme5o65h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
